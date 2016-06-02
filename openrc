@@ -1,0 +1,10 @@
+export TERM=xterm
+export OS_PROJECT_DOMAIN_ID=default
+export OS_USER_DOMAIN_ID=default
+export OS_PROJECT_NAME=admin
+export OS_USERNAME=admin
+export OS_PASSWORD=password
+export OS_TENANT_NAME=admin
+export OS_AUTH_URL=http://10.91.97.32:35357/v3
+export OS_IDENTITY_API_VERSION=3
+

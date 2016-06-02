@@ -1,0 +1,12 @@
+#cloud-config
+
+users:
+  - name: "testtest"
+    passwd: "$1$a42vjTOS$Uee/Et/poZ8Xjk1EEhtgu1"
+    groups:
+      - "sudo"
+    ssh-authorized-keys:
+      - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDe2j+qGhnSZto0V0fAHzeviR1/F5wgXaiYtZVn6GGJzbAixGAuzCu6c67Jexj4ZvWHvaFL3lN/gGlqsur4ZjwtIs3AgxWs6eNeJF5cbcF7D2rLANUywdjuonvplChz/6LRAXlKXhAITe7tjzMORaqi3j3TDPAHmvGoILchIMaZBKgR1bjD5NksBjD99XwAwenWYduEFFa71YR7BXOqEo/rSSkCreBjE4ZRTYkgmOx85tD4lnJX0a5ZKstYJ+c5pbnZOc/R8o9aBt+pTyqPr9/NfXNyK/4gmjFYZ4KkJrx/V74P4cIlTaj262qGD8yBEgFmh3OQv7dW1dyNZRTjSrsX root@gklab-97a-032"
+
+
+

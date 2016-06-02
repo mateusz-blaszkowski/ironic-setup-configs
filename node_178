@@ -1,0 +1,14 @@
+export USER=root
+export PASS=r00tme
+export ADDRESS=10.91.96.178
+export RAM_MB=36000
+export CPU=10
+export DISK_GB=400
+export ARCH=x86_64
+export ROOT_GB=10
+export MAC_ADDRESS=EC:F4:BB:D9:17:30
+export DEPLOY_INITRD_UUID=034d3bfe-7e0d-490e-88ba-0ebf0d69ccf9
+export DEPLOY_VMLINUZ_UUID=dc100f84-bf51-43d6-ad7f-cc9f83ce8095
+export IMAGE_SOURCE_UUID=a13700f0-d3f1-4699-8560-90d856116aba
+export NODE_UUID=b6ea4f8b-9ab9-4cb9-9b32-74665783ec43
+
